@@ -2582,6 +2582,19 @@ input, select, textarea {
 		}
 
 /* Image */
+	.image1{
+		width: 100%;
+		height: 85vh;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.image1 img{
+		height: 400px;
+		width: 400px;
+		border-radius: 50%;
+		border: 10px solid silver;
+	}
 
 	.image {
 		border: 0;
